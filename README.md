@@ -13,7 +13,7 @@ I build software that works as hard as I do. With a sharp eye for problem-solvin
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cullen_in_tech) 
-
+##
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
