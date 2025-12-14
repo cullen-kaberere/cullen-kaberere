@@ -28,6 +28,8 @@ I build software that works as hard as I do. With a sharp eye for problem-solvin
 ![](https://github-readme-stats.vercel.app/api?username=cullen-kaberere&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=cullen-kaberere&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cullen-kaberere&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Profile Views](https://komarev.com/ghpvc/?username=cullen-kaberere&style=for-the-badge)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=cullen-kaberere&theme=radical&no-frame=false&no-bg=true&margin-w=4)
