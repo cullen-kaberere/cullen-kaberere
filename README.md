@@ -24,12 +24,12 @@ I build software that works as hard as I do. With a sharp eye for problem-solvin
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-| 🍔 Bite Hub | 🚗 Ultrashine Auto | 👕 Decisive Hearts |
+| Bite Hub | Ultrashine Auto | Decisive Hearts |
 |------------|------------------|------------------|
 | Full-stack food court ordering system | Premium automotive services website | E-commerce clothing store |
-[Source Code](https://github.com/cullen-kaberere/bite-hub) | Private Repo | [Source Code](https://github.com/cullen-kaberere/decisive-hearts) |
+
 | [Live Demo](https://bite-hub-food-court.vercel.app) | [Live Demo](https://www.ultrashineauto.co.ke) | [Live Demo](https://decisive-hearts.vercel.app) |
 
 
