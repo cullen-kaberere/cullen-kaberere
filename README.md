@@ -29,7 +29,6 @@ I build software that works as hard as I do. With a sharp eye for problem-solvin
 | Bite Hub | Ultrashine Auto | Decisive Hearts |
 |------------|------------------|------------------|
 | Full-stack food court ordering system | Premium automotive services website | E-commerce clothing store |
-
 | [Live Demo](https://bite-hub-food-court.vercel.app) | [Live Demo](https://www.ultrashineauto.co.ke) | [Live Demo](https://decisive-hearts.vercel.app) |
 
 
