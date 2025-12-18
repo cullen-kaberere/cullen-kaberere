@@ -24,6 +24,39 @@ I build software that works as hard as I do. With a sharp eye for problem-solvin
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
 
+## 🚀 Featured Projects
+
+### 🍔 Bite Hub — Full-Stack Food Court Ordering System  
+🔗 https://bite-hub-food-court.vercel.app  
+
+A modern full-stack platform that digitizes menu browsing, ordering, and table reservations for food courts.  
+Built with **Next.js, Flask, PostgreSQL, JWT authentication**, and deployed on **Vercel & Render**.  
+Includes a customer-facing interface and an admin dashboard for outlet owners.
+
+---
+
+### 🚗 Ultrashine Auto — Premium Automotive Services Website  
+🔗 https://www.ultrashineauto.co.ke  
+
+A high-performance, fully responsive **Next.js** website for a premium car modification shop.  
+Features modern UI/UX, global styling, and **WhatsApp integration** for streamlined customer inquiries.
+
+---
+
+### 👕 Decisive Hearts — E-commerce Clothing Store  
+🔗 https://decisive-hearts.vercel.app  
+
+A sleek **Next.js e-commerce platform** with dynamic product catalogues, cart management with size variants,  
+smooth animations, and **Stripe-powered checkout**. Optimized for performance and clean branding.
+
+---
+
+### 🚘 Ride Wrap — Automotive Services Platform  
+🔗 https://ride-wrap-kenya.vercel.app  
+
+A mobile-first automotive services website built with **Next.js**, featuring **WhatsApp integration**  
+and an AI chat assistant (Fax.ai) for automated customer engagement.
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=cullen-kaberere&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=cullen-kaberere&theme=dark&hide_border=false)<br/>
