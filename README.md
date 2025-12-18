@@ -1,5 +1,5 @@
 # 💫 About Me:
-I build software that works as hard as I do. With a sharp eye for problem-solving and a solid grip on React, Flask, and Python, I craft systems that are fast, efficient, and built to last. Whether optimizing performance or designing seamless user experiences, I thrive on turning challenges into solutions. No fluff—just clean code, smart engineering, and results that speak for themselves. Let’s build something legendary.
+I build software that works as hard as I do. With a sharp eye for problem-solving and a solid grip on React, Flask, and Python, I craft systems that are fast, efficient, and built to last. Whether optimizing performance or designing seamless user experiences, I thrive on turning challenges into solutions. No fluff, just clean code, smart engineering, and results that speak for themselves. Let’s build something legendary.
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -29,7 +29,7 @@ I build software that works as hard as I do. With a sharp eye for problem-solvin
 | 🍔 Bite Hub | 🚗 Ultrashine Auto | 👕 Decisive Hearts |
 |------------|------------------|------------------|
 | Full-stack food court ordering system | Premium automotive services website | E-commerce clothing store |
-| Next.js · Flask · PostgreSQL | Next.js · UI/UX · WhatsApp | Next.js · Stripe |
+| ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=nextdotjs) ![Flask](https://img.shields.io/badge/Flask-black?style=flat&logo=flask) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=flat&logo=postgresql) | ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=nextdotjs) ![UI/UX](https://img.shields.io/badge/UI%2FUX-gray?style=flat) ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp) | ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=nextdotjs) ![Stripe](https://img.shields.io/badge/Stripe-purple?style=flat&logo=stripe) |
 | [Live Demo](https://bite-hub-food-court.vercel.app) | [Live Demo](https://www.ultrashineauto.co.ke) | [Live Demo](https://decisive-hearts.vercel.app) |
 
 
