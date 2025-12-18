@@ -29,7 +29,7 @@ I build software that works as hard as I do. With a sharp eye for problem-solvin
 | 🍔 Bite Hub | 🚗 Ultrashine Auto | 👕 Decisive Hearts |
 |------------|------------------|------------------|
 | Full-stack food court ordering system | Premium automotive services website | E-commerce clothing store |
-| ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=nextdotjs) ![Flask](https://img.shields.io/badge/Flask-black?style=flat&logo=flask) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=flat&logo=postgresql) | ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=nextdotjs) ![UI/UX](https://img.shields.io/badge/UI%2FUX-gray?style=flat) ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp) | ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=nextdotjs) ![Stripe](https://img.shields.io/badge/Stripe-purple?style=flat&logo=stripe) |
+[Source Code](https://github.com/cullen-kaberere/bite-hub) | Private Repo | [Source Code](https://github.com/cullen-kaberere/decisive-hearts) |
 | [Live Demo](https://bite-hub-food-court.vercel.app) | [Live Demo](https://www.ultrashineauto.co.ke) | [Live Demo](https://decisive-hearts.vercel.app) |
 
 
