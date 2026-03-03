@@ -1,5 +1,4 @@
-# 💫 About Me:
-# Hey, I'm Cullen Kaberere 👋
+# Hey, I'm Cullen Kaberere 
 ### Full-Stack Engineer · Nairobi, Kenya 🇰🇪
 
 I build software that works as hard as I do.  
