@@ -1,5 +1,13 @@
 # 💫 About Me:
-I build software that works as hard as I do. With a sharp eye for problem-solving and a solid grip on React, Flask, and Python, I craft systems that are fast, efficient, and built to last. Whether optimizing performance or designing seamless user experiences, I thrive on turning challenges into solutions. No fluff, just clean code, smart engineering, and results that speak for themselves. Let’s build something legendary.
+# Hey, I'm Cullen Kaberere 👋
+### Full-Stack Engineer · Nairobi, Kenya 🇰🇪
+
+I build software that works as hard as I do.  
+Sharp on **React, Next.js, Flask & Python** — I ship systems that are fast, scalable, and built to last.  
+Not just a coder. A problem-solver who closes the gap between what clients *say* they need and what they *actually* need.
+
+> *Clean code. Smart engineering. Results that speak for themselves.*  
+> Let's build something legendary.
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
