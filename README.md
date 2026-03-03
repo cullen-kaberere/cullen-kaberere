@@ -1,12 +1,12 @@
 # Hey, I'm Cullen 
 ### Full-Stack Engineer · Nairobi, Kenya 🇰🇪
 
-I build software that works as hard as I do.  
-Sharp on **React, Next.js, Flask & Python** — I ship systems that are fast, scalable, and built to last.  
-Not just a coder. A problem-solver who closes the gap between what clients *say* they need and what they *actually* need.
+There's a gap between how software *could* work
+and how it actually does. That's where I live.
 
-> *Clean code. Smart engineering. Results that speak for themselves.*  
-> Let's build something legendary.
+React · Next.js · Flask · Python · PostgreSQL
+
+> *Clean code. Smart engineering. Let's build something legendary.*
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
