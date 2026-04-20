@@ -31,6 +31,17 @@ React · Next.js · Flask · Python · PostgreSQL
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
 
+### 💻 **My Languages**
+
+<div align="center" style="border: 3px solid #00FF00; border-radius:15px; padding:10px; background-color:#0d1117; display:flex; justify-content:space-between; gap:0;">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diana-nyamai&show_icons=true&theme=radical&layout=compact&border_radius=0&langs_count=100&count_private=true&include_all_commits=true&size_weight=0.3&count_weight=0.3" width="33%" style="margin:0; padding:0;" />
+  
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Diana-nyamai&theme=radical&langs_count=100" width="33%" style="margin:0; padding:0;" />
+  
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Diana-nyamai&theme=radical&langs_count=100" width="33%" style="margin:0; padding:0;" />
+
+</div>
 ##  Featured Projects
 
 | Bite Hub | Ultrashine Auto | Decisive Hearts |
