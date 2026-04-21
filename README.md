@@ -35,11 +35,11 @@ React · Next.js · Flask · Python · PostgreSQL
 
 <div align="center" style="border: 3px solid #00FF00; border-radius:15px; padding:10px; background-color:#0d1117; display:flex; justify-content:space-between; gap:0;">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diana-nyamai&show_icons=true&theme=radical&layout=compact&border_radius=0&langs_count=100&count_private=true&include_all_commits=true&size_weight=0.3&count_weight=0.3" width="33%" style="margin:0; padding:0;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cullen-kaberere&show_icons=true&theme=radical&layout=compact&border_radius=0&langs_count=100&count_private=true&include_all_commits=true&size_weight=0.3&count_weight=0.3" width="33%" style="margin:0; padding:0;" />
   
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Diana-nyamai&theme=radical&langs_count=100" width="33%" style="margin:0; padding:0;" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cullen-kaberere&theme=radical&langs_count=100" width="33%" style="margin:0; padding:0;" />
   
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Diana-nyamai&theme=radical&langs_count=100" width="33%" style="margin:0; padding:0;" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cullen-kaberere&theme=radical&langs_count=100" width="33%" style="margin:0; padding:0;" />
 
 </div>
 ##  Featured Projects
