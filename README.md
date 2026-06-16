@@ -4,6 +4,7 @@
 There's a gap between how software *could* work
 and how it actually does. That's where I live.
 
+
 React · Next.js · Flask · Python · PostgreSQL
 
 > *Clean code. Smart engineering. Let's build something legendary.*
